@@ -1,0 +1,5 @@
+package kongweb.sample.controller;
+
+public class SampleController {
+
+}

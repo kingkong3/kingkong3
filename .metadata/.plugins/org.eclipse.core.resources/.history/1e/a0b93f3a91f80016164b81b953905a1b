@@ -1,0 +1,5 @@
+package com.company.first.common.logger;
+
+public class LoggerInterceptor {
+
+}
